@@ -1,0 +1,24 @@
+{
+  "name": "accessibility",
+  "description": "ReactSVG Accessibility Example",
+  "keywords": [
+    "react-svg"
+  ],
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-scripts": "5.0.1",
+    "react-svg": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
